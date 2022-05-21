@@ -6,4 +6,3 @@ static void main(void){
 
 
 
-Hierbij pas ik dit cs bestand aan en typ ik deze zin, met mijn "feature branch"
